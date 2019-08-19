@@ -1,6 +1,6 @@
 export default function(number, index) {
   return [
-    ['justo ahora', 'en un rato'],
+    ['justo ahora', 'en un momento'],
     ['hace %s segundos', 'en %s segundos'],
     ['hace 1 minuto', 'en 1 minuto'],
     ['hace %s minutos', 'en %s minutos'],
